@@ -1,0 +1,30 @@
+.container {
+  padding: 25px;
+  max-width: 500px;
+  margin: 30px auto;
+  font-family: system-ui, sans-serif;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.title {
+  color: #1a1a1a;
+  margin-bottom: 20px;
+  font-size: 22px;
+  text-align: center;
+}
+
+.loading {
+  color: #0066cc;
+  font-weight: 500;
+  display: block;
+  margin: 15px 0;
+}
+
+.error {
+  color: #cc3333;
+  font-weight: 500;
+  display: block;
+  margin: 15px 0;
+}
