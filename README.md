@@ -3,7 +3,7 @@
 This project is the final homework assignment within the GoIT React Developer program. It transforms the Phonebook application into a fully authenticated Single Page Application (SPA) using **JWT (JSON Web Tokens)** via the official GoIT Auth API, **Redux Toolkit**, **React Router (v6+)** with protected/restricted routes, and **Redux Persist**.
 
 ## 🚀 Live Demo
-- [View Live Application on Vercel](https://goit-react-hw-08-six-navy.vercel.app/)
+- [View Live Application on Vercel](https://goit-react-hw-08-six-navy.vercel.app/register)
 
 ## 🛠️ Key Architecture & Features
 1. **Authentication Slice (`src/redux/auth/`):**
